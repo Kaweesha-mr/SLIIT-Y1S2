@@ -1,0 +1,41 @@
+*{
+
+    /* enter your background image here */
+}
+
+.navigation{
+
+    /* use to arrange items horizontally */
+    display: flex;
+
+    /* use to change background color of  navigation bar */
+    background-color: rgb(85, 85, 85);
+    /* removing list dectoration like dots */
+    list-style: none;
+    /* align items to center of the navigation bar  */
+    align-items: center;
+
+    /* height of the navigation bar */
+    height: 40px;
+    color: bisque;
+}
+
+.navigation li a {
+
+    /* create spaces between list items */
+    padding-left: 20px;
+    /* removes underline from the anker tags */
+    text-decoration: none;
+    /* change the fonts color */
+    color: white;
+
+}
+
+table{
+    background-color: white;
+    padding-left: 800px;
+}
+
+tr{
+    width: 500px;
+}
