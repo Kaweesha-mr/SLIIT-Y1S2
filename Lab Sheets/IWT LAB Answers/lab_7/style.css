@@ -1,0 +1,25 @@
+body{
+
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table{
+    background-color: wheat;
+    margin-left: 500px;
+}
+
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(66, 63, 63);
+    color: white;
+    height: 50px;
+}
+
+h2{
+
+    color: white;
+}
