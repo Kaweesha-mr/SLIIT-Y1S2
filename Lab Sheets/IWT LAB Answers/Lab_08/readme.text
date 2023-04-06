@@ -1,0 +1,4 @@
+when you creting this you have to have  database which have name student and consist of list table which habe
+en_no (int) with auto increament
+name (varchar)
+division (varchar)
